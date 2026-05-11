@@ -16,7 +16,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local:
    python prueba_unificada.py
    ```
 
-## 🛠️ Contenido del Proyecto
+##  Contenido del Proyecto
 - `cell_segmentation_lib.py`: Librería core con algoritmos manuales (Gamma, FFT, Sobel, Otsu).
 - `prueba_unificada.py`: Script que procesa el dataset de 10 imágenes y muestra resultados visuales.
 - `reporte_tecnico.md`: Documentación detallada de la metodología y algoritmos.
