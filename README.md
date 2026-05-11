@@ -2,7 +2,7 @@
 
 Librería de visión artificial para la segmentación y conteo de células en imágenes de microscopía, desarrollada con implementaciones manuales de algoritmos fundamentales.
 
-## 🚀 Inicio Rápido (Descargar y Usar)
+##  Inicio Rápido (Descargar y Usar)
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 

@@ -12,4 +12,4 @@ El sistema utiliza un pipeline de procesamiento de imágenes para aislar núcleo
 El sistema fue validado con un dataset de 10 imágenes de microscopía con diferentes niveles de exposición y densidad celular, logrando una alta correlación con el conteo manual.
 
 ## Conclusiones
-La implementación de algoritmos "desde cero" usando NumPy permite un control preciso sobre los hiperparámetros de segmentación, resultando en una herramienta robusta para análisis biológico.
+La implementación de algoritmos "desde cero" usando NumPy permite un control preciso sobre los parámetros de segmentación, resultando en una herramienta sencilla de uso escolar
